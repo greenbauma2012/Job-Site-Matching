@@ -1,0 +1,353 @@
+Matched Jobsites and Groups with Trucks
+Jobsite: 72 matched with group: 144
+     Jobsite peps: 50 group peps: 57
+Jobsite: 61 matched with group: 109
+     Jobsite peps: 35 group peps: 42
+Jobsite: 207 matched with group: 32
+     Jobsite peps: 35 group peps: 40
+Jobsite: 43 matched with group: 4
+     Jobsite peps: 30 group peps: 37
+Jobsite: 41 matched with group: 145
+     Jobsite peps: 30 group peps: 37
+Jobsite: 27 matched with group: 158
+     Jobsite peps: 25 group peps: 30
+Jobsite: 75 matched with group: 14
+     Jobsite peps: 25 group peps: 30
+Jobsite: 188 matched with group: 148
+     Jobsite peps: 25 group peps: 30
+Jobsite: 199 matched with group: 166
+     Jobsite peps: 25 group peps: 30
+Jobsite: 203 matched with group: 101
+     Jobsite peps: 25 group peps: 30
+Jobsite: 63 matched with group: 138
+     Jobsite peps: 25 group peps: 29
+Jobsite: 53 matched with group: 82
+     Jobsite peps: 23 group peps: 28
+Jobsite: 52 matched with group: 9
+     Jobsite peps: 20 group peps: 25
+Jobsite: 81 matched with group: 100
+     Jobsite peps: 20 group peps: 25
+Jobsite: 173 matched with group: 134
+     Jobsite peps: 20 group peps: 24
+Jobsite: 39 matched with group: 136
+     Jobsite peps: 20 group peps: 24
+Jobsite: 197 matched with group: 63
+     Jobsite peps: 20 group peps: 24
+Jobsite: 12 matched with group: 23
+     Jobsite peps: 20 group peps: 23
+Jobsite: 42 matched with group: 160
+     Jobsite peps: 20 group peps: 20
+Jobsite: 6 matched with group: 36
+     Jobsite peps: 20 group peps: 20
+Jobsite: 211 matched with group: 8
+     Jobsite peps: 20 group peps: 20
+Jobsite: 44 matched with group: 168
+     Jobsite peps: 18 group peps: 20
+Jobsite: 174 matched with group: 75
+     Jobsite peps: 18 group peps: 20
+Jobsite: 184 matched with group: 84
+     Jobsite peps: 18 group peps: 18
+Jobsite: 137 matched with group: 140
+     Jobsite peps: 15 group peps: 17
+Jobsite: 38 matched with group: 31
+     Jobsite peps: 15 group peps: 17
+Jobsite: 19 matched with group: 77
+     Jobsite peps: 15 group peps: 17
+Jobsite: 45 matched with group: 27
+     Jobsite peps: 15 group peps: 17
+Jobsite: 26 matched with group: 141
+     Jobsite peps: 15 group peps: 16
+Jobsite: 191 matched with group: 167
+     Jobsite peps: 15 group peps: 16
+Jobsite: 80 matched with group: 17
+     Jobsite peps: 15 group peps: 15
+Jobsite: 164 matched with group: 42
+     Jobsite peps: 14 group peps: 14
+Jobsite: 34 matched with group: 11
+     Jobsite peps: 14 group peps: 14
+Jobsite: 13 matched with group: 132
+     Jobsite peps: 13 group peps: 14
+Jobsite: 195 matched with group: 50
+     Jobsite peps: 13 group peps: 14
+Jobsite: 140 matched with group: 5
+     Jobsite peps: 13 group peps: 14
+Jobsite: 68 matched with group: 112
+     Jobsite peps: 13 group peps: 13
+Jobsite: 171 matched with group: 103
+     Jobsite peps: 13 group peps: 13
+Jobsite: 120 matched with group: 108
+     Jobsite peps: 12 group peps: 13
+Jobsite: 82 matched with group: 21
+     Jobsite peps: 12 group peps: 13
+Jobsite: 84 matched with group: 43
+     Jobsite peps: 12 group peps: 13
+Jobsite: 130 matched with group: 129
+     Jobsite peps: 12 group peps: 12
+Jobsite: 57 matched with group: 135
+     Jobsite peps: 12 group peps: 12
+Jobsite: 1 matched with group: 143
+     Jobsite peps: 12 group peps: 12
+Jobsite: 142 matched with group: 80
+     Jobsite peps: 12 group peps: 12
+Jobsite: 154 matched with group: 52
+     Jobsite peps: 12 group peps: 12
+Jobsite: 86 matched with group: 99
+     Jobsite peps: 11 group peps: 11
+Jobsite: 106 matched with group: 22
+     Jobsite peps: 11 group peps: 11
+Jobsite: 158 matched with group: 90
+     Jobsite peps: 10 group peps: 11
+Jobsite: 96 matched with group: 83
+     Jobsite peps: 10 group peps: 10
+Jobsite: 99 matched with group: 37
+     Jobsite peps: 10 group peps: 10
+Jobsite: 103 matched with group: 87
+     Jobsite peps: 10 group peps: 10
+Jobsite: 170 matched with group: 89
+     Jobsite peps: 10 group peps: 10
+Jobsite: 49 matched with group: 30
+     Jobsite peps: 10 group peps: 10
+Jobsite: 36 matched with group: 97
+     Jobsite peps: 10 group peps: 10
+Jobsite: 74 matched with group: 98
+     Jobsite peps: 10 group peps: 10
+Jobsite: 109 matched with group: 59
+     Jobsite peps: 10 group peps: 10
+Jobsite: 185 matched with group: 39
+     Jobsite peps: 10 group peps: 10
+Jobsite: 186 matched with group: 68
+     Jobsite peps: 10 group peps: 10
+Jobsite: 28 matched with group: 146
+     Jobsite peps: 10 group peps: 10
+Jobsite: 18 matched with group: 102
+     Jobsite peps: 10 group peps: 10
+Jobsite: 192 matched with group: 70
+     Jobsite peps: 10 group peps: 10
+Jobsite: 58 matched with group: 152
+     Jobsite peps: 10 group peps: 10
+Jobsite: 59 matched with group: 153
+     Jobsite peps: 10 group peps: 10
+Jobsite: 198 matched with group: 154
+     Jobsite peps: 10 group peps: 10
+Jobsite: 35 matched with group: 156
+     Jobsite peps: 10 group peps: 10
+Jobsite: 128 matched with group: 157
+     Jobsite peps: 10 group peps: 10
+Jobsite: 85 matched with group: 106
+     Jobsite peps: 10 group peps: 10
+Jobsite: 136 matched with group: 72
+     Jobsite peps: 10 group peps: 10
+Jobsite: 46 matched with group: 40
+     Jobsite peps: 10 group peps: 10
+Jobsite: 138 matched with group: 18
+     Jobsite peps: 10 group peps: 10
+Jobsite: 66 matched with group: 165
+     Jobsite peps: 10 group peps: 10
+Jobsite: 94 matched with group: 111
+     Jobsite peps: 10 group peps: 10
+Jobsite: 144 matched with group: 15
+     Jobsite peps: 10 group peps: 10
+Jobsite: 220 matched with group: 33
+     Jobsite peps: 10 group peps: 10
+Jobsite: 222 matched with group: 29
+     Jobsite peps: 10 group peps: 10
+Jobsite: 187 matched with group: 126
+     Jobsite peps: 9 group peps: 9
+Jobsite: 176 matched with group: 161
+     Jobsite peps: 9 group peps: 9
+Jobsite: 69 matched with group: 20
+     Jobsite peps: 9 group peps: 9
+Jobsite: 115 matched with group: 163
+     Jobsite peps: 9 group peps: 9
+Jobsite: 146 matched with group: 26
+     Jobsite peps: 9 group peps: 9
+Jobsite: 17 matched with group: 107
+     Jobsite peps: 8 group peps: 9
+Jobsite: 150 matched with group: 47
+     Jobsite peps: 8 group peps: 9
+Jobsite: 189 matched with group: 142
+     Jobsite peps: 8 group peps: 9
+Jobsite: 64 matched with group: 150
+     Jobsite peps: 8 group peps: 9
+Jobsite: 89 matched with group: 74
+     Jobsite peps: 8 group peps: 8
+Jobsite: 91 matched with group: 155
+     Jobsite peps: 8 group peps: 8
+Jobsite: 107 matched with group: 35
+     Jobsite peps: 8 group peps: 8
+Jobsite: 175 matched with group: 19
+     Jobsite peps: 7 group peps: 7
+Jobsite: 131 matched with group: 12
+     Jobsite peps: 7 group peps: 7
+Jobsite: 216 matched with group: 10
+     Jobsite peps: 7 group peps: 7
+Jobsite: 8 matched with group: 85
+     Jobsite peps: 7 group peps: 7
+Jobsite: 134 matched with group: 139
+     Jobsite peps: 7 group peps: 7
+Jobsite: 5 matched with group: 71
+     Jobsite peps: 7 group peps: 7
+Jobsite: 78 matched with group: 88
+     Jobsite peps: 7 group peps: 7
+Jobsite: 73 matched with group: 51
+     Jobsite peps: 7 group peps: 7
+Jobsite: 196 matched with group: 25
+     Jobsite peps: 7 group peps: 7
+Jobsite: 2 matched with group: 57
+     Jobsite peps: 6 group peps: 7
+Jobsite: 160 matched with group: 58
+     Jobsite peps: 6 group peps: 7
+Jobsite: 117 matched with group: 44
+     Jobsite peps: 6 group peps: 7
+Jobsite: 118 matched with group: 130
+     Jobsite peps: 6 group peps: 7
+Jobsite: 33 matched with group: 79
+     Jobsite peps: 6 group peps: 7
+Jobsite: 169 matched with group: 60
+     Jobsite peps: 6 group peps: 7
+Jobsite: 30 matched with group: 133
+     Jobsite peps: 6 group peps: 7
+Jobsite: 51 matched with group: 69
+     Jobsite peps: 6 group peps: 6
+Jobsite: 76 matched with group: 147
+     Jobsite peps: 6 group peps: 6
+Jobsite: 129 matched with group: 1
+     Jobsite peps: 6 group peps: 6
+Jobsite: 194 matched with group: 114
+     Jobsite peps: 6 group peps: 6
+Jobsite: 221 matched with group: 28
+     Jobsite peps: 6 group peps: 6
+Jobsite: 25 matched with group: 104
+     Jobsite peps: 6 group peps: 6
+Jobsite: 112 matched with group: 81
+     Jobsite peps: 6 group peps: 6
+Jobsite: 88 matched with group: 62
+     Jobsite peps: 6 group peps: 6
+Jobsite: 79 matched with group: 16
+     Jobsite peps: 6 group peps: 6
+Jobsite: 48 matched with group: 65
+     Jobsite peps: 5 group peps: 6
+Jobsite: 62 matched with group: 45
+     Jobsite peps: 5 group peps: 6
+Jobsite: 147 matched with group: 78
+     Jobsite peps: 5 group peps: 5
+Jobsite: 148 matched with group: 54
+     Jobsite peps: 5 group peps: 5
+Jobsite: 149 matched with group: 46
+     Jobsite peps: 5 group peps: 5
+Jobsite: 201 matched with group: 118
+     Jobsite peps: 5 group peps: 5
+Jobsite: 178 matched with group: 125
+     Jobsite peps: 5 group peps: 5
+Jobsite: 204 matched with group: 66
+     Jobsite peps: 5 group peps: 5
+Jobsite: 4 matched with group: 96
+     Jobsite peps: 5 group peps: 5
+Jobsite: 15 matched with group: 56
+     Jobsite peps: 5 group peps: 5
+Jobsite: 182 matched with group: 61
+     Jobsite peps: 5 group peps: 5
+Jobsite: 16 matched with group: 76
+     Jobsite peps: 5 group peps: 5
+Jobsite: 67 matched with group: 53
+     Jobsite peps: 5 group peps: 5
+Jobsite: 202 matched with group: 64
+     Jobsite peps: 4 group peps: 4
+Jobsite: 122 matched with group: 137
+     Jobsite peps: 4 group peps: 4
+Jobsite: 70 matched with group: 67
+     Jobsite peps: 4 group peps: 4
+Jobsite: 205 matched with group: 124
+     Jobsite peps: 4 group peps: 4
+Jobsite: 152 matched with group: 94
+     Jobsite peps: 4 group peps: 4
+Jobsite: 60 matched with group: 95
+     Jobsite peps: 4 group peps: 4
+Jobsite: 119 matched with group: 115
+     Jobsite peps: 3 group peps: 3
+Jobsite: 141 matched with group: 92
+     Jobsite peps: 3 group peps: 3
+Jobsite: 180 matched with group: 151
+     Jobsite peps: 3 group peps: 3
+Jobsite: 113 matched with group: 55
+     Jobsite peps: 3 group peps: 3
+
+Matched Jobsites disregarding Trucks
+
+ Not matched JS
+JS: 213People: 18
+JS: 14People: 15
+JS: 92People: 15
+JS: 105People: 15
+JS: 209People: 15
+JS: 124People: 15
+JS: 127People: 15
+JS: 226People: 15
+JS: 159People: 12
+JS: 208People: 12
+JS: 161People: 12
+JS: 108People: 12
+JS: 212People: 12
+JS: 114People: 12
+JS: 217People: 12
+JS: 116People: 12
+JS: 223People: 10
+JS: 95People: 10
+JS: 133People: 8
+JS: 167People: 8
+JS: 135People: 8
+JS: 40People: 8
+JS: 172People: 8
+JS: 10People: 8
+JS: 110People: 8
+JS: 31People: 8
+JS: 179People: 8
+JS: 181People: 8
+JS: 183People: 8
+JS: 32People: 8
+JS: 98People: 8
+JS: 224People: 8
+JS: 145People: 8
+JS: 9People: 5
+JS: 83People: 5
+JS: 54People: 5
+JS: 7People: 5
+JS: 168People: 5
+JS: 190People: 5
+JS: 11People: 5
+JS: 126People: 5
+JS: 20People: 5
+JS: 24People: 0
+43 jobsites were not matched
+
+ Not matched Volunter Groups
+Group: 162People: 67
+Group: 38People: 56
+Group: 149People: 53
+Group: 24People: 52
+Group: 159People: 50
+Group: 6People: 48
+Group: 41People: 47
+Group: 169People: 45
+Group: 49People: 44
+Group: 13People: 37
+Group: 73People: 32
+Group: 110People: 28
+Group: 2People: 28
+Group: 131People: 26
+Group: 127People: 4
+Group: 128People: 4
+Group: 121People: 2
+Group: 122People: 2
+Group: 123People: 2
+Group: 86People: 2
+Group: 113People: 2
+Group: 105People: 2
+Group: 93People: 2
+Group: 116People: 2
+Group: 117People: 2
+Group: 91People: 2
+Group: 119People: 2
+Group: 120People: 2
+28 volunteer groups were not matched
+Num JS: 179 Num VG: 164

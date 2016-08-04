@@ -1,0 +1,239 @@
+1,6,0	Ad Club at Texas
+2,28,0 African Student Organization (ASO)
+4,37,1 Alpha Lambda Delta
+5,14,1 Alpha Phi Omega
+6,48,0 Alpha Psi Omega
+8,20,1 American Criminal Justice Association Lambda Alpha Epsilon
+9,25,1 American Marketing Association
+10,7,0 Association for Childhood Education International (ACEI)
+11,14,1 Association of Information Technology Professionals (AITP)
+12,7,1 Austin Stone at Texas State
+13,37,1,Baptist Student Ministry at Texas State
+14,30,0 Beta Alpha Psi (Accounting)
+15,10,1 Beta Upsilon Chi (Brothers Under Christ)
+16,6,0 Biochemistry and Molecular Biology Society
+17,15,0 Black Women United (Sisters Circle)
+18,10,0 Bobcat Belles
+19,7,0 Bobcat PRIDE at Texas State
+20,9,1 Bobcat Village Government
+21,13,1 Butler Hall Council
+22,11,0 Cat Camp
+23,23,1 Chi Alpha Christian Fellowship
+24,52,0 Chi Beta Delta
+25,7,1 College Democrats
+26,9,1 College Forward Collegians at Texas State
+27,17,0 College Inn Hall Council	
+28,6,0 College Republicans
+29,10,1 Colleges Against Cancer
+30,10,0 Collegiate Entrepreneurs Orgs
+31,17,1 Comm. Club
+32,40,1 Crosstalk Student Ministry
+33,10,1 CRU
+35,8,0 Delta Sigma Theta
+36,20,0 Delta Tau Delta
+37,10,0 Delta Xi Nu Multicultural Sorority,Inc
+38,56,0 Diamond Sweethearts
+39,10,0 Environmental Conservation Organization (ECO)
+40,10,0 Epsilon Nu Tau
+41,47,1 Exercise Sports Science Club
+42,14,0 Family & Child Development Association
+43,13,1,Fashion Merchandising Association
+44,7,0 FashioNation 
+45,6,1 Financial Management Association
+46,5,0 Forensic Anthropological Society
+47,9,0 Foster Care Alumni Creating Educational Success (FACES)
+49,44,1 Gamma Theta Upsilon 
+50,14,0 Gospel Expressions Association
+51,7,0 Aaron Weymouth
+52,12,0 Agriculture 2310
+53,5,0, Maresha Porter
+54,5,1 Brotherly Bros
+55,3,1 Brandon Elliott
+56,5,0 Elida Hernandez
+57,7,1 Jasmine Negbenebor
+58,7,0 Devante Sanders
+59,10,0 Demi Ivey
+60,7,0 Emily Bussan
+61,5,0 Lantana Girls
+62,6,0 Molly Hensel
+63,24,0 Medical Explorers
+64,4,1, Bobcats for Bernie
+65,6,0 Shannon Sampson
+66,5,0 Lilly Barrios
+67,4,1 Kimberly Romo
+68,10,0 4th Floor Blanco
+69,6,0 Liberal Arts Advising Center
+70,10,0 Malik Tipler
+71,7,0 Peer Leader- Health Professions
+72,10,0 Talia Johnson-Watkins
+73,32,0 Student Learning Assistance Center
+74,8,0 Blanco Hall
+75,20,1 Quad Squad
+76,5,0 Christopher Nerio
+77,17,0 Women of GOLD
+78,5,0 Falls and Sayers
+79,7,0 Arnold/Smith Hall Council
+80,12,0 BEXARSHARKS 1
+81,6,0 The Food Recovery Network
+82,28,0 Transfer Bobcats
+83,10,0 Psychology LLC
+84,18,1 New Student Orientation
+85,7,0 Brenda Rojas
+86,2,0 J'kevya Garrett
+87,10,1 Maverick
+88,7,0 Shalandria Bailey
+89,10,0 Black Women United
+90,11,0 Tau Beta Sigma
+91,2,0 Ke & Ki
+92,3,1 Colin Latimer
+93,2,0 Angelica Guerrero
+94,4,0 Kenya Jordan
+95,4,0 Sandra Anguilar
+96,5,1 Lizbeth Rios
+97,10,0 Tri-Beta Biological Honor Society
+98,10,1 OSSW
+99,11,0 FRIENDS
+100,25,1 Delta Sigma Phi
+101,30,0 Alicia Hernandez
+102,10,0 ESS Club
+103,13,0 Alpha Kappa
+104,6,1 Chimys
+105,2,0 Papa Klutch & Daddy Xpress
+106,10,0 Phi Mu Alpha Sinfonia Fraternity
+107,9,1 Madison Reed
+108,13,0 Health Information Management Student Association
+109,42,0 HEAT Establishment
+110,28,0 Hispanic Business Students Assoc.
+111,10,1 Hombres Unidos
+112,13,0 Honors Student Association
+113,2,0 Indian Student Association
+114,6,0 Elva Chavez
+115,3,0 J.I.M
+116,2,0 Corey Lucero
+117,2,1 Brandon Boggess
+118,5,1 Morelia Macias
+119,2,0 Cool Kids
+120,2,0 Erin Adams
+121,2,0 Kaitlin Williams
+122,2,0 Sarah Tarbell
+123,2,0 Katlyn Brinkley
+124,4,0 Jade Sandiford
+125,5,0 Jakalin Pickens
+126,9,0 Kaleigh Overberger
+127,4,1 Alexandra Cadena
+128,4,1 Institute of Industrial Engineers
+129,12,1 International Studies Club
+130,7,1 Kappa Alpha Order
+131,26,1 Kappa Delta Chi
+132,14,1 Kappa Sigma
+133,7,0 Korean Culture Club at Texas State
+134,24,1 Lambda Omega Alpha (Catholic)
+135,12,0 Lambda Pi Eta (Communication)
+136,24,1 Lambda Xi Delta
+137,4,0 Lantana Hall Council
+138,29,0 Latinas Unidas
+139,7,0 Le Cercle Francais
+140,17,0 MAES-Latinos in Science and Engineering
+141,16,1 MBA Student Association
+142,9,0 McCoy College
+143,12,1 McCoy College Ambassadors
+144,57,0 Mu Epsilon Theta (Catholic)
+145,37,1 Mu Sigma Nu
+146,10,0 National Student Speech/Language/Hearing Association
+147,6,0 Non-Traditional Student Organization
+148,30,1 Omega Delta Phi
+149,53,1 Omega Phi Alpha
+150,9,0 Orchesis Dance Company
+151,3,0 Phi Alpha
+152,10,0 Organization of Student Social Work
+153,10,0 Panhellinic Council
+154,10,0 Phi Alpha National Social Work Honor Society
+155,8,0 Phi Beta Sigma
+156,10,0 Phi Eta Sigma(Freshman)
+157,10,1 Phi Iota Alpha
+158,30,1 Phi Kappa Psi
+159,50,1 Phi Kappa Tau- Gamma Psi
+160,20,1 Phi Sigma Pi National Honors Fraternity
+161,9,1 Phi Upsilon Omicron
+162,67,1 Pi Kappa Alpha
+163,9,1 Pi Kappa Phi
+165,10,0 Pre-Physician Assistant Society
+166,30,1 Pre-Veterinary Society
+167,16,0 Psi Chi
+168,20,0 Psychology Association
+169,45,1 Res College Hall Council
+170,27,1 Rise Retreat
+171,7,1 Ritmo Latino Dance Society 
+172,6,0 Rotaract
+173,13,1 SACNAS Chapter
+174,22,0 SERTOMA
+175,70,1 Sigma Alpha Epsilon
+176,23,1 Sigma Alpha Iota
+177,10,1 Sigma Chi
+178,27,0 Sigma Delta Lambda
+179,23,1 Sigma Lambda Beta
+180,25,1 Sigma Lambda Gamma
+182,10,1 Sigma Tau Gamma
+183,10,0 Society for Human Resources Management
+184,13,1 SSS Bobcat Leadership Board
+185,8,0 Student Foundation
+186,13,0 Student Leadership Board
+187,9,1 Student Nutrition Organization
+188,10,0 SVC
+189,7,0 Students in international business
+190,50,0 Terry Scholars of Texas State
+191,70,1 Texas State Renegade Rugby Club
+192,12,0 Texas State Women Ultimate Disc
+193,28,1 Texas State Women’s Club Soccer
+194,8,0 Texas State Women’s Water Polo
+195,10,0 The Impact Movement
+196,30,1 Theta Chi
+197,34,1 University Ambassadors
+198,10,1 Women’s Club Volleyball
+199,30,0 Zeta Tau Alpha
+200,30,1 Department of Agriculture
+201,7,0 Bobcat Build Team 6
+202,11,1 Ag Leadership
+203,8,1 Village Crew
+204,44,1 Alpha Sigma Phi
+205,11,0 Pre-Occupational Therapy
+206,10,0 Nature and the Quest for Meaning
+207,10,1 Tower Hall Ocho
+208,14,1 Retention Management and Planning
+209,12,0 Center of P-16
+210,10,1 Recreation Center
+211,4,1 TDHA
+212,10,0 SACA
+213,10,0 Math Department
+214,8,1 Katie Blocker
+215,10,0 Pre-med/pre-dent LC
+216,10,0 HEB
+217,2,0 Adam Baker
+218,8,0 Journalism and Mass Communication
+219,7,0 Top Scholars
+220,1,1 ALCANCE
+221,8,1 Bobcat Ice Babes
+222,10,0 Alpha Kappa Delta
+223,18,0 Medical Brigades
+224,18,1 PACE MMI
+225,10,0 Business Learning Community
+226,10,0 Theatre
+227,40,1 Elliott Hall
+228,4,0 Starry Hall 4th Floor
+229,6,0 Future Teachers
+230,9,0 PACE
+231,3,0 Summones
+232,5,0 Echoes
+233,16,0 Blanco Hall
+234,30,1 Hornsby/Burleson
+235,33,0 Lions Club 
+236,8,0 University Seminar
+237,10,0 Chat/Gaillar Halls
+238,10,1 San Jac Hall
+239,14,1 Laurel/Retama 14
+240,12,1 Nerd Fighters
+241,10,1 Bobcat Preview
+242,5,1 SMHS Block 5
+243,6,1 Lambda Alpha Epsilon
+244,7,0 Spark
+245,5,1 Medical Muggles
